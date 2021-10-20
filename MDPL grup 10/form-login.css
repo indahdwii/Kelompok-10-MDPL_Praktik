@@ -60,16 +60,16 @@ body {
     font-family: 'Lato', sans-serif;
     color: rgb(20, 20, 20);
     text-align: center;
-    background: #f3f702;
+    background: #f70202;
     box-shadow: 3px 3px 8px #363333,
                 -3px -3px 8px #c2b9b9;
     transition: 0.2s;
 }
 .signin-button:hover {
-    background: #f3f702;
+    background: #f71818;
 }
 .signin-button:active {
-    background: #cccf05 ;
+    background: #cf0505 ;
 }
 .link {
     padding-top: 20px;
